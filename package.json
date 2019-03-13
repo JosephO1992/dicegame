@@ -1,0 +1,16 @@
+{
+  "name": "DiceGame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d deploy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://josepho1992.github.io/dicegame",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
